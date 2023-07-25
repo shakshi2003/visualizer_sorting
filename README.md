@@ -13,7 +13,7 @@ A JavaScript web application for visualizing various sorting algorithms. Built f
 
 ## How to use
 
-- Navigate to the [website]()
+- Navigate to the [website](https://tubular-smakager-e6d422.netlify.app/)
 - Click on the algorithm you want to visualize
 - Adjust speed and size of the array
 
